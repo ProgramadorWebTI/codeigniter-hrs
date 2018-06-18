@@ -1,6 +1,7 @@
 <!-- ===== LIBIS JAVA SCRIPT ===== -->
 <script src="<?php echo base_url('assets/js/jquery-3.3.1.min.js'); ?>"></script>
 <script src="<?php echo base_url('assets/js/bootstrap.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/lib/bipbop/jquery.bipbop.min.js'); ?>"></script>
 <script src="<?php echo base_url('assets/lib/alertifyjs/alertify.min.js'); ?>"></script>
 
 <!--LIBIS CSS -->
